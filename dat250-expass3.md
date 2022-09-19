@@ -19,10 +19,17 @@ Remove documents:
 ![img_4.png](img_4.png)
 
 Bulk write operations:
-No screenshots because we didn't get a cmd window. 
-But I understood the meaning of it.
+![img_7.png](img_5.png)
 
 #### Screenshot Experiment 2:
+
+Example 1:
+![img_5.png](img_6.png)
+![img_6.png](img_7.png)
+
+Example 2:
+![img_8.png](img_8.png)
+![img_9.png](img_9.png)
 
 Reason about why my implemented 
 Map-reduce operation in Experiment 2 is useful
