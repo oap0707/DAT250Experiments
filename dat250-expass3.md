@@ -31,8 +31,16 @@ Example 2:
 ![img_8.png](img_8.png)
 ![img_9.png](img_9.png)
 
+My own implementation:
+![img_10.png](img_10.png)
+
 Reason about why my implemented 
 Map-reduce operation in Experiment 2 is useful
 and interpret the collection obtained:
+
+I believe my implemented Map-reduce operation is useful
+because it shows how much they sold for the days they had 
+customers. So their total sum per day. From the result
+we can see that they sold for the most money on March 20th 2020.
 
 Pending issues: None.
